@@ -36,8 +36,8 @@ Before you begin, ensure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bus-ticket-booking-app.git
-   cd bus-ticket-booking-app
+   git clone https://github.com/aakcali/Bus-Ticket-App.git
+   cd Bus-Ticket-App
 
 2. Install Dependencies:
 
