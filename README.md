@@ -46,7 +46,7 @@ Before you begin, ensure you have the following software installed:
 ## Running the App
 
 1. Start the development server:
-   npm start
+   npx expo start
    This will start the Expo development server and display a QR code in the terminal.
 
 2. Install the Expo Go app on your mobile device.
